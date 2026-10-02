@@ -1,0 +1,4 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+# filterpy>=1.4.5   # Phase 2: EKF cross-check
