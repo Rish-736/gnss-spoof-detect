@@ -5,3 +5,6 @@ venv/
 .idea/
 .vscode/
 .pytest_cache/
+
+# Personal planning notes -- kept locally, not published
+GNSS_Spoofing_Detector_BuildPlan.md
